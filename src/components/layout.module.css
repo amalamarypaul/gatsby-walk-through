@@ -1,0 +1,25 @@
+.listLink{
+  display: inline-block;
+  margin-right: 1rem;
+}
+.container{
+  margin: 3rem auto;
+  padding: 0 1rem;
+  margin-right: 1rem;
+}
+.listContainer{
+  list-style:none;
+  float: right;
+}
+.title{
+  text-shadow: none;
+  background-image: none;
+}
+h3{
+  display: inline;
+}
+
+.body{
+  position: absolute;
+  
+}
